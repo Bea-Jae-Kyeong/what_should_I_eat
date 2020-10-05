@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-color: whitesmoke;
+}
+section {
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+}
+img{
+	width:300px;
+	height:300px;
+}
+#sname{
+	font-size: 50px;
+	color: purple;
+	font-weight:bold;
+}
+div{
+	text-align: center;
+    font-size: 20px;
+    color: blue;
+    display:inline;
+}
+iframe{
+	display:inline;
+}
