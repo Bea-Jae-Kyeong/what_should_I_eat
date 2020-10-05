@@ -1,7 +1,6 @@
 # what_should_I_eat
 A web page suggesting restaurants in Inha Univ. by answering few questions based on Firebase on Tomcat server
 
-2018/12/11
  수업시간에 배운 내용들을 바탕으로 Tomcat 서버에서 Firebase를 기반으로 하는 웹 프로젝트를 제작하였다. Eclipse IDE로 코드를 작성하였고, Tomcat 서버는 8.0버전을 사용하였다. 인하대 후문 주변의 맛집을 회원이 선택한 기준에 따라 추천해주는 사이트를 만들었다. 그 날 먹을 음식점을 정하기 어려울 때 누군가 대신 추천해주길 원했었는데, 이번 기말 프로젝트를 수행하면서 직접 만들어보았다. 11개의 jsp와 2개의 servlet을 만들어 구현하였다.
  
  톰캣 서버를 시작하고 가장 먼저 뜨는 창은 1.jsp가 되도록 하였다. 인터페이스를 기준으로 보면 제목과 설명 밑에 “뭐 먹지?”가 있고, ‘클릭하여 로그인’을 클릭하면 로그인창이 뜨게 하였다. 그 옆에는 캔버스로 만든 시계가 있고, 맨 하단에는 관리자 버튼이 있다.
